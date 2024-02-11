@@ -1,0 +1,7 @@
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\bin\Debug\HelloApp.exe.config
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\bin\Debug\HelloApp.exe
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.AssemblyReference.cache
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\obj\Debug\HelloApp.exe
+C:\Users\unico\Documents\work\repo\c_sharp\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
